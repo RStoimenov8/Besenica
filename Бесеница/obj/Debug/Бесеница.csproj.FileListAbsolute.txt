@@ -1,0 +1,70 @@
+C:\Users\PC\Desktop\Бесеница\Бесеница\Бесеница\bin\Debug\Бесеница.exe.config
+C:\Users\PC\Desktop\Бесеница\Бесеница\Бесеница\bin\Debug\Бесеница.exe
+C:\Users\PC\Desktop\Бесеница\Бесеница\Бесеница\bin\Debug\Бесеница.pdb
+C:\Users\PC\Desktop\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.Form1.resources
+C:\Users\PC\Desktop\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.Form2.resources
+C:\Users\PC\Desktop\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.Form3.resources
+C:\Users\PC\Desktop\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.Properties.Resources.resources
+C:\Users\PC\Desktop\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.exe
+C:\Users\PC\Desktop\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.pdb
+G:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\bin\Debug\Бесеница.exe.config
+G:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\bin\Debug\Бесеница.exe
+G:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\bin\Debug\Бесеница.pdb
+G:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.Form1.resources
+G:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.Form3.resources
+G:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.Properties.Resources.resources
+G:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.csproj.GenerateResource.Cache
+G:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.csproj.CoreCompileInputs.cache
+G:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.exe
+G:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.pdb
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\bin\Debug\Бесеница.exe.config
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\bin\Debug\Бесеница.exe
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\bin\Debug\Бесеница.pdb
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.Form1.resources
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.Form2.resources
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.Form3.resources
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.Properties.Resources.resources
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.csproj.GenerateResource.Cache
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.exe
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.pdb
+G:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.csprojAssemblyReference.cache
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\bin\Debug\mscorlib.dll
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\bin\Debug\normidna.nlp
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\bin\Debug\normnfc.nlp
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\bin\Debug\normnfd.nlp
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\bin\Debug\normnfkc.nlp
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\bin\Debug\normnfkd.nlp
+F:\8 klas\Hacks\Tests\Бесеница\Бесеница\Бесеница\Бесеница\obj\Debug\Бесеница.csprojResolveAssemblyReference.cache
+G:\Бесеница\Бесеница\bin\Debug\Бесеница.exe.config
+G:\Бесеница\Бесеница\bin\Debug\Бесеница.exe
+G:\Бесеница\Бесеница\bin\Debug\Бесеница.pdb
+G:\Бесеница\Бесеница\obj\Debug\Бесеница.csprojAssemblyReference.cache
+G:\Бесеница\Бесеница\obj\Debug\Бесеница.Form1.resources
+G:\Бесеница\Бесеница\obj\Debug\Бесеница.Form3.resources
+G:\Бесеница\Бесеница\obj\Debug\Бесеница.Properties.Resources.resources
+G:\Бесеница\Бесеница\obj\Debug\Бесеница.csproj.GenerateResource.cache
+G:\Бесеница\Бесеница\obj\Debug\Бесеница.exe
+G:\Бесеница\Бесеница\obj\Debug\Бесеница.pdb
+G:\Бесеница\New\Бесеница\obj\Debug\Бесеница.csprojAssemblyReference.cache
+G:\Бесеница\New\Бесеница\obj\Debug\Бесеница.Form1.resources
+G:\Бесеница\New\Бесеница\obj\Debug\Бесеница.Form3.resources
+G:\Бесеница\New\Бесеница\obj\Debug\Бесеница.Properties.Resources.resources
+G:\Бесеница\New\Бесеница\obj\Debug\Бесеница.csproj.GenerateResource.cache
+G:\Бесеница\New\Бесеница\obj\Debug\Бесеница.exe
+G:\Бесеница\New\Бесеница\obj\Debug\Бесеница.pdb
+G:\Бесеница\New\Бесеница\bin\Debug\Бесеница.exe.config
+G:\Бесеница\New\Бесеница\bin\Debug\Бесеница.exe
+G:\Бесеница\New\Бесеница\bin\Debug\Бесеница.pdb
+G:\Олимпиада\Бесеница\New\Бесеница\bin\Debug\Бесеница.exe.config
+G:\Олимпиада\Бесеница\New\Бесеница\bin\Debug\Бесеница.exe
+G:\Олимпиада\Бесеница\New\Бесеница\bin\Debug\Бесеница.pdb
+G:\Олимпиада\Бесеница\New\Бесеница\obj\Debug\Бесеница.csprojAssemblyReference.cache
+G:\Олимпиада\Бесеница\New\Бесеница\obj\Debug\Бесеница.Form1.resources
+G:\Олимпиада\Бесеница\New\Бесеница\obj\Debug\Бесеница.Form3.resources
+G:\Олимпиада\Бесеница\New\Бесеница\obj\Debug\Бесеница.Properties.Resources.resources
+G:\Олимпиада\Бесеница\New\Бесеница\obj\Debug\Бесеница.csproj.GenerateResource.cache
+G:\Олимпиада\Бесеница\New\Бесеница\obj\Debug\Бесеница.exe
+G:\Олимпиада\Бесеница\New\Бесеница\obj\Debug\Бесеница.pdb
